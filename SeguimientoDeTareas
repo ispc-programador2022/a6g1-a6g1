@@ -1,5 +1,8 @@
 Tareas para el primer sprint:
 
+*a-función que muestre cartel de presentación.
+*b-función ing2i, debe permitir el ingreso de 2 valores enteros
+*c-función ing2s, debe permitir el ingreso de 2 valores string
 
 1- función suma, retorna la suma de 2 parámetros.
 2- función resta, retorna la resta de 2 parámetros.
@@ -14,7 +17,6 @@ funciones anteriores.
 funciones anteriores.
 11- función p1, retorna la resta de los 2 primero por el 3er parámetros, usando las funciones
 anteriores.
-NO USAR NUMPY
 12- función genrnd que retorna una lista con 50 números aleatorios.
 13- función que devuelva la suma de las combinaciones posibles de los números generados
 por la función genrnd tomados de a dos.
@@ -23,7 +25,11 @@ generados por la función genrnd tomados de a dos.
 
 Pendientes:                             En Proceso:                               Finalizadas:
 
-1y2
+                                                                                  
+                                                                                   a
+                                                                                   b
+                                                                                   c
+1y2                                                                             
 3y4
 5y6
 7y8
