@@ -22,6 +22,9 @@ anteriores.
 por la función genrnd tomados de a dos.
 14- función que devuelva el producto de las combinaciones posibles de los números
 generados por la función genrnd tomados de a dos.
+15- función que calcule la media del vector obtenido en genrnd.
+16-- función que calcule el rango del vector obtenido en genrnd.
+
 
 Pendientes:                             En Proceso:                               Finalizadas:
 
