@@ -20,8 +20,8 @@ Consigna 1:|   | 	 |
 Consigna 2:|   |	 |
 Consigna 3:|   |	 |
 Consigna 4:|   | 	 |
-Consigna 5:|   | 	 |
-Consigna 6:|   |	 |
+Consigna 5:| Gonzalez Antoniazzi, Juan Diego | 	 |
+Consigna 6:| Gonzalez Antoniazzi, Juan Diego |	 |
 Consigna 7:| Galello, Damian| Gonzalez, Federico|
 Consigna 8:|   | 	 |
 Consigna 9:|  Gil Borel, Camila  |  Gimenez, María|
