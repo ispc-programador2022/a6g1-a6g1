@@ -41,9 +41,32 @@ def saludo():
     
     """)
 
+def IngresoDeNumeros(a=0,b=0):
+    try:
+        a=int(input("Ingrese un valor entero para num1 "))
+        b=int(input("Ingrese un valor entero para num2 "))
+        return a,b
+    except:
+        print("Solo puede ingresar valores numericos.")
+        IngresoDeNumeros(a=0,b=0)
+    
 
+def IngresoDeStrings(a="",b=""):
+    try:
+        a=input("Ingrese un valor string para 'a' ")
+        b=input("Ingrese un valor string para 'b' ")
+        return a,b
+    except:
+        print("Solo puede ingresar strings.")
+        IngresoDeStrings(a="",b="")
+        
+
+    
 
 
 saludo()
+
+IngresoDeNumeros()
+IngresoDeStrings()
 
 
