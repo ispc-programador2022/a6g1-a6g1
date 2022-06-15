@@ -1,0 +1,27 @@
+"""
+Created on Wed Jun 15 07:22:46 2022
+@author: Maria Gimenez y Camila Gil
+"""
+
+suma = x + y
+resta = x - y
+producto = x * y
+
+"""
+Ejercicio 9: función p1, retorna el producto de los 2 primeros más el 3er parámetro, usando las
+funciones anteriores.
+"""
+
+p1 = suma * resta + producto
+
+print ("El producto de los dos primeros más el 3er parámetro es", p1)
+
+"""
+Ejercicio 10: función p1, retorna la suma de los dos primero por el tercer parámetros, usando las
+funciones anteriores.
+"""
+
+p1 = suma + resta * producto
+
+print ("La suma de los dos primeros por el tercer parámetro es", p1)
+
