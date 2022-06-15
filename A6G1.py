@@ -41,30 +41,9 @@ def saludo():
     
     """)
 
-def IngresoDeNumeros(a=0,b=0):
-    try:
-        a=int(input("Ingrese un valor entero para num1 "))
-        b=int(input("Ingrese un valor entero para num2 "))
-    except:
-        print("Solo puede ingresar valores numericos, intentelo mas tarde.")
-        exit
-    return a,b
 
-def IngresoDeStrings(a="",b=""):
-    try:
-        a=input("Ingrese un valor string para 'a' ")
-        b=input("Ingrese un valor string para 'b' ")
-    except:
-        print("Solo puede ingresar strings, intentelo mas tarde.")
-        exit
-        
-    return a,b
 
 
 saludo()
 
 
-num1,num2=IngresoDeNumeros()
-print(num1,num2)
-a,b=IngresoDeStrings()
-print(a,b)
