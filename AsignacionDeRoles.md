@@ -25,7 +25,7 @@ Consigna 6:| Gonzalez Antoniazzi, Juan Diego |	 |
 Consigna 7:| Galello, Damian| Gonzalez, Federico|
 Consigna 8:|   | 	 |
 Consigna 9:|  Gil Borel, Camila  |  Gimenez, María|
-Consigna 10:|   | 	 |
+Consigna 10:| Gil Borel, Camila  |  Gimenez, María|
 Consigna 11:|Hector Gomez | Adrian Garcia 	 |
 Consigna 12:|Hector Gomez | Adrian Garcia 	 |
 Consigna 13:|   |  	 |
