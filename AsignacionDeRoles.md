@@ -16,7 +16,7 @@
 				
 |	        | Desarrolladores:|	Testers:|
 | ------------- | ------------- | ------------- |				
-Consigna 1:|   | 	 |
+Consigna 1:|  JuanGrosso7 | 	 |
 Consigna 2:|   |	 |
 Consigna 3:|   |	 |
 Consigna 4:|   | 	 |
