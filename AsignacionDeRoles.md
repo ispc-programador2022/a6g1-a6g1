@@ -9,7 +9,6 @@
  |Usuario Github|Nombre|
  | ------------- | ------------- |
 |@JDGA1997| |
-| @JuanGrosso7||
 |@JuanEzequielGomez|   |
 |@aagarcia1987|   |
 |@GOMEZ-DANIEL|   |
