@@ -31,4 +31,4 @@ Consigna 12:|Hector Gomez | Adrian Garcia 	 |
 Consigna 13:|   |  	 |
 Consigna 14:|   | 	 |				
 Consigna 15:| Carlos Gimenez       | Georgina Gaspar   |                 
-Consigna 16:| 	| 	 |                                     
+Consigna 16:| Georgina Gaspar                                     
