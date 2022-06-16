@@ -1,11 +1,11 @@
 # Proyecto Situación Profesional 1
 
-**** Este proyecto consiste en el desarrollo e implementación de 30 funciones escritas en lenguaje Python, las cuales serán divididas en dos Sprints.
+****Este proyecto consiste en el desarrollo e implementación de 30 funciones escritas en lenguaje Python, las cuales serán divididas en dos Sprints.
 La modalidad de trabajo consistirá en asignar, por Sprint, cada dos integrantes del equipo, dos consignas con el fin de agilizar el desarrollo de la tarea y soporte ante cualquier duda surgida. Cada Sprint durará una semana siendo el comienzo el 16/06 y finalización el 23/06 para el primer Sprint, y el 24/06 el comienzo y 30/06 la finalización del segundo Sprint.
 
 ## Product Backlog
 
-**** función que muestre cartel de presentación.
+****función que muestre cartel de presentación.
 función ing2i, debe permitir el ingreso de 2 valores enteros
 función ing2s, debe permitir el ingreso de 2 valores string
 1- función suma, retorna la suma de 2 parámetros.
@@ -49,9 +49,9 @@ generados por la función genrnd tomados de a dos.
 
 **** Durante este Sprint se desarrollaran las tareas descriptas en el seguiente Sprint Backlog.
 
-**** Sprint Backlog:
+### Sprint Backlog:
 
-**** función que muestre cartel de presentación.
+****función que muestre cartel de presentación.
 función ing2i, debe permitir el ingreso de 2 valores enteros
 función ing2s, debe permitir el ingreso de 2 valores string
 1- función suma, retorna la suma de 2 parámetros.
@@ -79,9 +79,13 @@ generados por la función genrnd tomados de a dos.
 
 **** También para este sprint se define la siguiente agenda:
 
-**** 10/06 Planning.
-13/06 Inicio del Sprint.
-Dailies a partir de las 18:00 hs mediante whatsapp por ser un medio ágil para nuestro contexto y 20 : 45 hs en las fechas de 15/06,21/06 mediante meet.
-23/06 Finalización del Sprint.
-24/06 Review del sprint/Retrospectiva del team/Planning del segundo Sprint.
+****10/06 Planning.
+
+****13/06 Inicio del Sprint.
+
+****Dailies a partir de las 18:00 hs mediante whatsapp por ser un medio ágil para nuestro contexto y 20 : 45 hs en las fechas de 15/06,21/06 mediante meet.
+
+****23/06 Finalización del Sprint.
+
+****24/06 Review del sprint/Retrospectiva del team/Planning del segundo Sprint.
 
