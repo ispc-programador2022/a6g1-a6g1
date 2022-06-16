@@ -14,7 +14,7 @@
 |@GOMEZ-DANIEL|   |
 |@GasparGeorgina|   |
 |@crlsh|  Carlos Gimenez |
-|@dgalello|   |
+|@dgalello|   Damian Galello|
 |@carlosISPC|   |
 |@Ccamilagil |   |
 |@GamarraDavid |   |
