@@ -4,7 +4,27 @@
 				
 # Aula 6 Grupo 1				
 				
-				
+## Identificacion de usuarios y nombres
+
+@JDGA1997| | 	
+  JuanGrosso7|
+@JuanEzequielGomez|   |	 
+@aagarcia1987|   |	 
+@GOMEZ-DANIEL|   | 	 
+@GasparGeorgina|   | 	 
+@crlsh|  Carlos Gimenez | 	 
+@dgalello|   | 	 
+@carlosISPC|   | 	 
+@Ccamilagil |   | 	 
+@GamarraDavid |   | 	 
+@Fergigena1 |   | 	 
+@Cinngomez |   | 	 
+ @monsegutier |   | 	 
+ @JuanGrosso7|   | 	 
+ @hbgomez|   | 	 |
+ @Elingisinger |   | 	 
+	    
+
 ## Roles			
 				
 				
