@@ -1,4 +1,4 @@
-### Proyecto Situación Profesional 1
+# Proyecto Situación Profesional 1
 
 **** Este proyecto consiste en el desarrollo e implementación de 30 funciones escritas en lenguaje Python, las cuales serán divididas en dos Sprints.
 La modalidad de trabajo consistirá en asignar, por Sprint, cada dos integrantes del equipo, dos consignas con el fin de agilizar el desarrollo de la tarea y soporte ante cualquier duda surgida. Cada Sprint durará una semana siendo el comienzo el 16/06 y finalización el 23/06 para el primer Sprint, y el 24/06 el comienzo y 30/06 la finalización del segundo Sprint.
