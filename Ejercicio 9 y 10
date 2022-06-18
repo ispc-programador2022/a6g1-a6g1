@@ -3,18 +3,15 @@ Created on Wed Jun 15 07:22:46 2022
 @author: Maria Gimenez y Camila Gil
 """
 
-suma = x + y
-resta = x - y
-producto = x * y
-
 """
 Ejercicio 9: función p1, retorna el producto de los 2 primeros más el 3er parámetro, usando las
 funciones anteriores.
 """
 
-p1 = suma * resta + producto
+def funcion9 (a,b,x):
+    return (a+b)*c
 
-print ("El producto de los dos primeros más el 3er parámetro es", p1)
+print(funcion9(funcion1suma(2,3),funcion2resta(4,2),funcion3producto(3,4))
 
 """
 Ejercicio 10: función p1, retorna la suma de los dos primero por el tercer parámetros, usando las
