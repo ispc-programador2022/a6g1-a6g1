@@ -1,24 +1,29 @@
 """
-Created on Wed Jun 15 07:22:46 2022
+Created on Sat Jun 18 11:06:46 2022
 @author: Maria Gimenez y Camila Gil
 """
 
+
 """
-Ejercicio 9: función p1, retorna el producto de los 2 primeros más el 3er parámetro, usando las
+funcion9 retorna el producto de los 2 primeros más el 3er parámetro, usando las
 funciones anteriores.
 """
+def funcion9(a,b,c):
+     d=(a*b)+c
+     return d
 
-def funcion9 (a,b,x):
-    return (a+b)*c
-
-print(funcion9(funcion1suma(2,3),funcion2resta(4,2),funcion3producto(3,4))
+print ("El producto de los dos primeros mas el tercer paramtro es ", funcion9(2,3,4))
 
 """
-Ejercicio 10: función p1, retorna la suma de los dos primero por el tercer parámetros, usando las
+Funcion10 retorna la suma de los dos primero por el tercer parámetros, usando las
 funciones anteriores.
 """
+def funcion10(a,b,c):
+     d=(a+b)*c
+     return d
 
-p1 = suma + resta * producto
 
-print ("La suma de los dos primeros por el tercer parámetro es", p1)
+print ("La suma de los dos primeros por el tercer paramtro es ", funcion10(2,3,4))
+
+
 
