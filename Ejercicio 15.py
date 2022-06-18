@@ -24,3 +24,21 @@ def multirnd():
    return  (resultado)
    
 print(multirnd())
+
+# Variacion: 
+
+# si hay que usar combinatoria de elementos, 
+# el paso previo seria armar la lista de combinaciones, y luego aplicar la f anterior
+
+
+# from itertools import combinations
+
+# A = genrnd()
+# temp = combinations(A, 2)      # todas las combinaciones de la lista tomadas de a 2 numeros
+# result = []
+# for i in list(temp):
+#	print (i)
+#	result.append(i) 
+
+# print (result, len(result))    # sobre esta lista, multiplicar cada par. (1225 items)
+
