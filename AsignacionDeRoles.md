@@ -11,7 +11,7 @@
 |@JDGA1997| |
 |@JuanEzequielGomez|   |
 |@aagarcia1987|   |
-|@GOMEZ-DANIEL|   |
+|@GOMEZ-DANIEL| hector  gomez |
 |@GasparGeorgina|   |
 |@crlsh|  Carlos Gimenez |
 |@dgalello|   Damian Galello|
