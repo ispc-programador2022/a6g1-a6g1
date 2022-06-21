@@ -121,5 +121,5 @@ Dailies a partir de las 18:00 hs mediante whatsapp por ser un medio ágil para n
 
 23/06 Finalización del Sprint.
 
-**** 24/06 Review del sprint/Retrospectiva del team/Planning del segundo Sprint.
+24/06 Review del sprint/Retrospectiva del team/Planning del segundo Sprint.
 
