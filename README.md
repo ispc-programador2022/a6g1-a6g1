@@ -1,3 +1,8 @@
+
+![Image text](https://github.com/ispc-programador2022/a6g1-a6g1/blob/main/.github/ISPC_CDIA.jpg)
+
+
+
 # Proyecto Situación Profesional 1
 
 ****Este proyecto consiste en el desarrollo e implementación de 30 funciones escritas en lenguaje Python, las cuales serán divididas en dos Sprints.
