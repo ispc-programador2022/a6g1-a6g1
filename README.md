@@ -39,7 +39,7 @@
 
 ## Product Backlog
 
-****función que muestre cartel de presentación.
+función que muestre cartel de presentación.
 función ing2i, debe permitir el ingreso de 2 valores enteros
 función ing2s, debe permitir el ingreso de 2 valores string
 1- función suma, retorna la suma de 2 parámetros.
@@ -81,11 +81,11 @@ generados por la función genrnd tomados de a dos.
 
 ### Primer Sprint:
 
-**** Durante este Sprint se desarrollaran las tareas descriptas en el seguiente Sprint Backlog.
+#### Durante este Sprint se desarrollaran las tareas descriptas en el seguiente Sprint Backlog.
 
 ### Sprint Backlog:
 
-****función que muestre cartel de presentación.
+función que muestre cartel de presentación.
 función ing2i, debe permitir el ingreso de 2 valores enteros
 función ing2s, debe permitir el ingreso de 2 valores string
 1- función suma, retorna la suma de 2 parámetros.
@@ -111,15 +111,15 @@ generados por la función genrnd tomados de a dos.
 generados por la función genrnd tomados de a dos.
 16- función que calcule la media del vector obtenido en genrnd.
 
-**** También para este sprint se define la siguiente agenda:
+#### También para este sprint se define la siguiente agenda:
 
-****10/06 Planning.
+10/06 Planning.
 
-****13/06 Inicio del Sprint.
+13/06 Inicio del Sprint.
 
-****Dailies a partir de las 18:00 hs mediante whatsapp por ser un medio ágil para nuestro contexto y 20 : 45 hs en las fechas de 15/06,21/06 mediante meet.
+Dailies a partir de las 18:00 hs mediante whatsapp por ser un medio ágil para nuestro contexto y 20 : 45 hs en las fechas de 15/06,21/06 mediante meet.
 
-****23/06 Finalización del Sprint.
+23/06 Finalización del Sprint.
 
-****24/06 Review del sprint/Retrospectiva del team/Planning del segundo Sprint.
+**** 24/06 Review del sprint/Retrospectiva del team/Planning del segundo Sprint.
 
