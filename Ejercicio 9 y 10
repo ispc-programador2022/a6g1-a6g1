@@ -1,0 +1,29 @@
+"""
+Created on Sat Jun 18 11:06:46 2022
+@author: Maria Gimenez y Camila Gil
+"""
+
+
+"""
+funcion9 retorna el producto de los 2 primeros más el 3er parámetro, usando las
+funciones anteriores.
+"""
+def funcion9(a,b,c):
+     d=(a*b)+c
+     return d
+
+print ("El producto de los dos primeros mas el tercer paramtro es ", funcion9(2,3,4))
+
+"""
+Funcion10 retorna la suma de los dos primero por el tercer parámetros, usando las
+funciones anteriores.
+"""
+def funcion10(a,b,c):
+     d=(a+b)*c
+     return d
+
+
+print ("La suma de los dos primeros por el tercer paramtro es ", funcion10(2,3,4))
+
+
+
